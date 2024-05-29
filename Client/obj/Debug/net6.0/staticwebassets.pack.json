@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\obj\\Debug\\net6.0\\compressed\\ictcq7f71e.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\prroject.Client.styles.css",
+      "PackagePath": "staticwebassets\\prroject.Client.styles.css"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\about-banner.png",
+      "PackagePath": "staticwebassets\\about-banner.png"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\alert.js",
+      "PackagePath": "staticwebassets\\alert.js"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\bci.jpg",
+      "PackagePath": "staticwebassets\\bci.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-american-1.jpeg",
+      "PackagePath": "staticwebassets\\car-american-1.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-american-2.jpeg",
+      "PackagePath": "staticwebassets\\car-american-2.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-american-3.jpeg",
+      "PackagePath": "staticwebassets\\car-american-3.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-american-4.jpeg",
+      "PackagePath": "staticwebassets\\car-american-4.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-american-5.jpeg",
+      "PackagePath": "staticwebassets\\car-american-5.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-default.jpeg",
+      "PackagePath": "staticwebassets\\car-default.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-german-1.jpeg",
+      "PackagePath": "staticwebassets\\car-german-1.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-german-2.jpeg",
+      "PackagePath": "staticwebassets\\car-german-2.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-german-3.jpeg",
+      "PackagePath": "staticwebassets\\car-german-3.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-german-4.jpeg",
+      "PackagePath": "staticwebassets\\car-german-4.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car-german-5.jpeg",
+      "PackagePath": "staticwebassets\\car-german-5.jpeg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\car.png",
+      "PackagePath": "staticwebassets\\car.png"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\AboutPage.css",
+      "PackagePath": "staticwebassets\\css\\AboutPage.css"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\elite.jpg",
+      "PackagePath": "staticwebassets\\elite.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\favicon.svg",
+      "PackagePath": "staticwebassets\\favicon.svg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\i1.jpg",
+      "PackagePath": "staticwebassets\\i1.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\i2.jpg",
+      "PackagePath": "staticwebassets\\i2.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\i3.jpg",
+      "PackagePath": "staticwebassets\\i3.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\i4.jpg",
+      "PackagePath": "staticwebassets\\i4.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\im1.jpg",
+      "PackagePath": "staticwebassets\\im1.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\im2.jpg",
+      "PackagePath": "staticwebassets\\im2.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\im3.jpg",
+      "PackagePath": "staticwebassets\\im3.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\im4.jpg",
+      "PackagePath": "staticwebassets\\im4.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\l1.jpg",
+      "PackagePath": "staticwebassets\\l1.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\nor.jpg",
+      "PackagePath": "staticwebassets\\nor.jpg"
+    },
+    {
+      "Id": "C:\\AU Semester 4\\Visual Programming Lab\\NawabMotors\\prroject\\Client\\wwwroot\\wed.jpg",
+      "PackagePath": "staticwebassets\\wed.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.prroject.Client.props",
+      "PackagePath": "build\\prroject.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.prroject.Client.props",
+      "PackagePath": "buildMultiTargeting\\prroject.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.prroject.Client.props",
+      "PackagePath": "buildTransitive\\prroject.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.prroject.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

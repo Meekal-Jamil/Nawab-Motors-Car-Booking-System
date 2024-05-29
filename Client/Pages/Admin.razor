@@ -1,0 +1,197 @@
+﻿@page "/admin"
+@using prroject.Shared.Models
+@inject HttpClient Http
+@using System.Net.Http.Json
+
+<style>
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .card {
+        max-width: 400px; /* Adjust the width as needed */
+        width: 100%;
+        padding: 20px;
+    }
+
+    .dashboard {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .dashboard-header {
+        width: 100%;
+        background-color: #f0f0f0;
+        padding: 20px;
+    }
+
+    .dashboard-content {
+        width: 100%;
+        padding: 20px;
+    }
+</style>
+
+@if (isAuthenticated)
+{
+    <div class="dashboard">
+        <div class="dashboard-header">
+            <h1 class="text-center">Welcome to Admin Dashboard</h1>
+        </div>
+        <div class="dashboard-content">
+           
+            <!-- Database Record section -->
+            <div>
+                <h3 style="color:cornflowerblue">Database Record</h3>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Car_no</th>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Pick/Drop</th>
+                            <th>Vehicle</th>
+                            <th>Price</th>
+                            <th>Phone_No</th>
+                            <th>Liscence_No</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (rentals == null || rentals.Count == 0)
+                        {
+                            <tr>
+                                <td colspan="8" align="center">No Data Found!</td>
+                            </tr>
+                        }
+                        else
+                        {
+                            @foreach (var rental in rentals)
+                            {
+                                <tr>
+                                    <td width="10%">@rental.car_no</td>
+                                    <td width="25%">@rental.name</td>
+                                    <td width="15%">@rental.email</td>
+                                    <td width="10%">@rental.pickup</td>
+                                    <td width="10%">@rental.vehicle</td>
+                                    <td width="10%">@rental.price</td>
+                                    <td width="15%">@rental.ph_no</td>
+                                    <td width="15%">@rental.l_no</td>
+                                    <td><button class="btn btn-danger" @onclick="() => Delete(rental.car_no)">Delete</button></td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="container">
+        <div class="card">
+            <h2 class="text-center">@pageTitle</h2>
+            @if (showLogin)
+            {
+                <form @onsubmit="verifyUser">
+                    <div class="mb-3">
+                        <label for="loginEmail" class="form-label">Email address</label>
+                        <input @bind="auth.email" type="email" class="form-control" id="loginEmail" aria-describedby="emailHelp">
+                    </div>
+                    <div class="mb-3">
+                        <label for="loginPassword" class="form-label">Password</label>
+                        <input @bind="auth.password" type="password" class="form-control" id="loginPassword">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </form>
+                <button class="btn btn-link" @onclick="ToggleForm">Sign Up</button>
+            }
+            else
+            {
+                <form @onsubmit="AddUser">
+                    <div class="mb-3">
+                        <label for="signupName" class="form-label">Full Name</label>
+                        <input @bind="auth.username" type="text" class="form-control" id="signupName" aria-describedby="nameHelp">
+                    </div>
+                    <div class="mb-3">
+                        <label for="signupEmail" class="form-label">Email address</label>
+                        <input @bind="auth.email" type="email" class="form-control" id="signupEmail" aria-describedby="emailHelp">
+                    </div>
+                    <div class="mb-3">
+                        <label for="signupPassword" class="form-label">Password</label>
+                        <input @bind="auth.password" type="password" class="form-control" id="signupPassword">
+                    </div>
+                    <div class="mb-3">
+                        <label for="signupConfirmPassword" class="form-label">Confirm Password</label>
+                        <input type="password" class="form-control" id="signupConfirmPassword">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Sign Up</button>
+                </form>
+                <button class="btn btn-link" @onclick="ToggleForm">Login</button>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    private List<carrental> rentals;
+    private List<authentication> users;
+    private authentication auth = new authentication();
+    private int viewBooking = 0;
+    private bool isAuthenticated = false;
+    private bool showLogin = true;
+    private string pageTitle = "Login";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await FetchUsers();
+    }
+
+    private async Task FetchUsers()
+    {
+        rentals = await Http.GetFromJsonAsync<List<carrental>>("/api/Clients/Get");
+        users = await Http.GetFromJsonAsync<List<authentication>>("/api/Auth/Get");
+    }
+
+
+    private async Task Delete(int id)
+    {
+        if (id > 0)
+        {
+            await Http.DeleteAsync($"/api/Clients/Delete/{id}");
+            await FetchUsers();
+        }
+    }
+
+    private void ToggleForm()
+    {
+        showLogin = !showLogin;
+        pageTitle = showLogin ? "Login" : "Sign Up";
+    }
+
+    private async Task verifyUser()
+    {
+        foreach (var user in users)
+        {
+            if (user.email == auth.email && user.password == auth.password)
+            {
+                isAuthenticated = true;
+                await FetchUsers();
+                return;
+            }
+        }
+    }
+
+    private async Task AddUser()
+    {
+        await Http.PostAsJsonAsync("api/Auth/Create", auth);
+        auth = new authentication(); // Clear the form after submission
+        await FetchUsers(); // Refresh the student list
+        showLogin = true; // Switch back to login form after signup
+        pageTitle = "Login";
+    }
+}

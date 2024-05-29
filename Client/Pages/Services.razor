@@ -1,0 +1,211 @@
+﻿@page "/services"
+@using prroject.Shared.Models
+@inject HttpClient Http
+@inject IJSRuntime JSRuntime
+@using System.Net.Http.Json
+@using Microsoft.JSInterop
+
+<style>
+    .heroo1 h1 {
+        font-family: Arial, sans-serif;
+        font-size: 3.5em;
+        color: black;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .heroo1 h2 {
+        font-family: Arial, sans-serif;
+        font-size: 1.5em;
+        color: #1743e3;
+        margin-top: -15px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .inputplace h2 {
+        font-weight: bold;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        font-size: 2em;
+        color: black;
+        margin-top: 15px;
+    }
+
+    .inputplace {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start; 
+        margin-top: 30px; 
+    }
+
+        .inputplace form {
+            font-family: Arial, sans-serif;
+            font-size: 1em;
+            color: #c7dadb;
+            width: 50%;
+            background-color: #33a1c1;
+            border: 3px solid #555;
+            padding: 20px;
+            box-sizing: border-box;
+            border-radius: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+    input[type=text], input[type=number], input[type=password] {
+        background-color: white;
+        color: black;
+        border: 3px solid #555;
+        box-sizing: border-box;
+        width: 100%;
+        margin: 10px 0;
+        border-radius: 7px;
+        padding: 10px;
+    }
+
+    label {
+        font-family: Arial, sans-serif;
+        color: black;
+        font-weight: bold;
+        width: 60%;
+        text-align: left;
+        display: inline-block;
+      /*  padding: 8px 16px; 
+        background-color: #33a1c1; 
+        border-radius: 20px; 
+        margin-right: 5px;
+        */
+    }
+
+    button {
+        margin-top: 20px;
+        font-family: Arial, sans-serif;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+</style>
+
+<div class="heroo1">
+    <PageTitle>Sign-up Page</PageTitle>
+    <h1>Nawab Motors<br /></h1>
+    <h2>Car Booking System</h2>
+</div>
+
+<div class="inputplace">
+    <form @onsubmit="AddBooking">
+
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" placeholder="Your Name" class="form-control" id="name" @bind="newBooking.name" />
+        </div>
+        <div class="form-group">
+            <label for="Email">Email:</label>
+            <input type="text" placeholder="Your Email Address" class="form-control" id="email" @bind="newBooking.email" />
+        </div>
+        <div class="form-group">
+            <label for="Pick_up">Pick Up:</label>
+            <input type="text" class="form-control" placeholder="Your Pickup Location" id="pickup" @bind="newBooking.pickup" />
+        </div>
+        <div class="form-group">
+            <label for="Drop">Vehicle:</label>
+            <input type="text" class="form-control" placeholder="Choose Car" id="vehicle" @bind="newBooking.vehicle" />
+        </div>
+        <div class="form-group">
+            <label for="Drop">Price:</label>
+            <input type="text" class="form-control" placeholder="Price" id="price" @bind="newBooking.price" />
+        </div>
+        <div class="form-group">
+            <label for="Phone_No">Phone No:</label>
+            <input type="text" class="form-control" placeholder="Mobile No" id="ph_no" @bind="newBooking.ph_no" />
+        </div>
+        <div class="form-group">
+            <label for="Liscence_No">License No:</label>
+            <input type="text" class="form-control" placeholder="Your Driving License No" id="l_no" @bind="newBooking.l_no" />
+        </div>
+        <button type="button" @onclick="AddBooking">Register</button>
+    </form>
+</div>
+
+@code {
+    private List<carrental> rentals;
+    private carrental newBooking = new carrental();
+    //private carrental editStudent = new carrental();
+    private bool editMode = false;
+    private int viewbooking = 0;
+    private bool viewbookingBool = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Fetch();
+    }
+
+    private async Task Fetch()
+    {
+        rentals = await Http.GetFromJsonAsync<List<carrental>>("/api/Clients/Get");
+    }
+
+    private async Task AddBooking()
+    {
+        Console.WriteLine("hello");
+        bool isRegistered = false;
+        foreach (var person in rentals)
+        {
+            if (newBooking.l_no == person.l_no)
+            {
+                await JSRuntime.InvokeVoidAsync("showAlert", "User already registered!");
+                Console.WriteLine("User already registered!");
+                newBooking = new carrental();
+                isRegistered = true;
+                break;
+            }
+        }
+        if (!isRegistered)
+        {
+            await Http.PostAsJsonAsync("api/Client/Create", newBooking);
+            newBooking = new carrental(); // Clear the form after submission
+            await Fetch(); // Refresh the student list
+            await JSRuntime.InvokeVoidAsync("showAlert", "Thanks for booking vehicle from us!"); // Show the message
+        }
+        Console.WriteLine("end");
+    }
+
+    private async Task DeleteBooking(int id)
+    {
+        if (id > 0)
+        {
+            await Http.DeleteAsync($"/api/Clients/Delete/{id}");
+            await Fetch();
+        }
+    }
+
+    private async Task ViewBooking(int id)
+    {
+        if (id > 0)
+        {
+            await Http.DeleteAsync($"/api/Clients/Details/{id}");
+            await Fetch();
+        }
+    }
+
+    private async Task ViewBookingbyID()
+    {
+        ViewBooking(viewbooking);
+        viewbookingBool = true;
+    }
+}
+
+<script>
+    window.showAlert = function (message) {
+        alert(message);
+    };
+</script>

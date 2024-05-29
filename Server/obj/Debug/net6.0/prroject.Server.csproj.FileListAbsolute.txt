@@ -1,0 +1,616 @@
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Client.staticwebassets.runtime.json
+E:\New folder\prroject\Server\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder\prroject\Server\bin\Debug\net6.0\appsettings.json
+E:\New folder\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\New folder\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Server.staticwebassets.runtime.json
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Server.exe
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Server.deps.json
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Server.runtimeconfig.json
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Server.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Server.pdb
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Client.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Shared.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Client.pdb
+E:\New folder\prroject\Server\bin\Debug\net6.0\prroject.Shared.pdb
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.AssemblyReference.cache
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfoInputs.cache
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfo.cs
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CoreCompileInputs.cache
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cache
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cs
+E:\New folder\prroject\Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder\prroject\Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.prroject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.prroject.Server.props
+E:\New folder\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prroject.Server.props
+E:\New folder\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prroject.Server.props
+E:\New folder\prroject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\New folder\prroject\Server\obj\Debug\net6.0\scopedcss\bundle\prroject.Server.styles.css
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.9F5B1087.Up2Date
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.dll
+E:\New folder\prroject\Server\obj\Debug\net6.0\refint\prroject.Server.dll
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.pdb
+E:\New folder\prroject\Server\obj\Debug\net6.0\prroject.Server.genruntimeconfig.cache
+E:\New folder\prroject\Server\obj\Debug\net6.0\ref\prroject.Server.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Humanizer.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfo.cs
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cs
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.dll
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\refint\prroject.Server.dll
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.pdb
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Client.staticwebassets.runtime.json
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.staticwebassets.runtime.json
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.exe
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.deps.json
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.runtimeconfig.json
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.pdb
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Client.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Shared.dll
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Client.pdb
+C:\Users\ACER\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Shared.pdb
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.prroject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.prroject.Server.props
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prroject.Server.props
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prroject.Server.props
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\scopedcss\bundle\prroject.Server.styles.css
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.9F5B1087.Up2Date
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.genruntimeconfig.cache
+C:\Users\ACER\Desktop\prroject\Server\obj\Debug\net6.0\ref\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Client.staticwebassets.runtime.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\appsettings.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Server.staticwebassets.runtime.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Server.exe
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Server.deps.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Server.runtimeconfig.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Server.pdb
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Humanizer.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Client.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Shared.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Client.pdb
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\bin\Debug\net6.0\prroject.Shared.pdb
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.AssemblyReference.cache
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfoInputs.cache
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfo.cs
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CoreCompileInputs.cache
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cache
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cs
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.prroject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\scopedcss\bundle\prroject.Server.styles.css
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CopyComplete
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\refint\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.pdb
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\prroject.Server.genruntimeconfig.cache
+C:\AU Semester 4\Visual Programming Lab\Qazi\prroject\Server\obj\Debug\net6.0\ref\prroject.Server.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Client.staticwebassets.runtime.json
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.staticwebassets.runtime.json
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.exe
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.deps.json
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.runtimeconfig.json
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Server.pdb
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Client.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Shared.dll
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Client.pdb
+C:\Users\MANI\Desktop\prroject\Server\bin\Debug\net6.0\prroject.Shared.pdb
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.AssemblyReference.cache
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfoInputs.cache
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfo.cs
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CoreCompileInputs.cache
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cache
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cs
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.prroject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.prroject.Server.props
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prroject.Server.props
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prroject.Server.props
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\scopedcss\bundle\prroject.Server.styles.css
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CopyComplete
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.dll
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\refint\prroject.Server.dll
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.pdb
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\prroject.Server.genruntimeconfig.cache
+C:\Users\MANI\Desktop\prroject\Server\obj\Debug\net6.0\ref\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\appsettings.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Client.staticwebassets.runtime.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Server.staticwebassets.runtime.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Server.exe
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Server.deps.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Server.runtimeconfig.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Server.pdb
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Humanizer.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Client.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Shared.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Client.pdb
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\bin\Debug\net6.0\prroject.Shared.pdb
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.AssemblyReference.cache
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfoInputs.cache
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfo.cs
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CoreCompileInputs.cache
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cache
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cs
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.prroject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\scopedcss\bundle\prroject.Server.styles.css
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CopyComplete
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\refint\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.pdb
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\prroject.Server.genruntimeconfig.cache
+C:\AU Semester 4\Visual Programming Lab\Final project\prroject\Server\obj\Debug\net6.0\ref\prroject.Server.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Client.staticwebassets.runtime.json
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\appsettings.json
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.staticwebassets.runtime.json
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.exe
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.deps.json
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.runtimeconfig.json
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.pdb
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Humanizer.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Client.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Shared.dll
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Client.pdb
+D:\meekal\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Shared.pdb
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.AssemblyReference.cache
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfoInputs.cache
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfo.cs
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CoreCompileInputs.cache
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cache
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cs
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.prroject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.prroject.Server.props
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prroject.Server.props
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prroject.Server.props
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\scopedcss\bundle\prroject.Server.styles.css
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.9F5B1087.Up2Date
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.dll
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\refint\prroject.Server.dll
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.pdb
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.genruntimeconfig.cache
+D:\meekal\NawabMotors\prroject\Server\obj\Debug\net6.0\ref\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.exe
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Shared.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Client.staticwebassets.runtime.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\appsettings.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.staticwebassets.runtime.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.deps.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.runtimeconfig.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Server.pdb
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Humanizer.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Client.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Client.pdb
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\bin\Debug\net6.0\prroject.Shared.pdb
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.AssemblyReference.cache
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfoInputs.cache
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.AssemblyInfo.cs
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CoreCompileInputs.cache
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cache
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.RazorAssemblyInfo.cs
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.prroject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prroject.Server.props
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\scopedcss\bundle\prroject.Server.styles.css
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.csproj.CopyComplete
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\refint\prroject.Server.dll
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.pdb
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\prroject.Server.genruntimeconfig.cache
+C:\AU Semester 4\Visual Programming Lab\NawabMotors\prroject\Server\obj\Debug\net6.0\ref\prroject.Server.dll

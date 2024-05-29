@@ -1,0 +1,47 @@
+﻿@inherits LayoutComponentBase
+
+@*
+<div class="top-row ps-3 navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-brand" href=""> VP Project</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <!-- Changed me-auto to ms-auto -->
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="">Home</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="counter">About</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="weather">Vehicles</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="services">Register</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="admin">Admin</NavLink>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>*@
+
+
+    <br />
+    <NavMenu></NavMenu>
+<div class="container">
+    @Body
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

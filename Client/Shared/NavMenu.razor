@@ -1,0 +1,92 @@
+﻿@*<style>
+    /* Navbar styling */
+    .container-fluid {
+        background-color: #61111e; /* Change the navbar background color */
+    }
+
+    .navbar-nav .nav-link {
+        color: white; /* Change the color of all nav links */
+    }
+
+    .hoverme:hover {
+        background-color: yellow;
+    }
+
+
+    /* Active link styling */
+    .navbar-nav .nav-item.active .nav-link {
+        font-weight: bold; /* Make the font bold when the link is active */
+        text-decoration: underline; /* Add underline when the link is active */
+    }
+</style>
+
+<div class="navbar navbar-expand-lg navbar-light bg-white">
+    <div class="container-fluid">
+        <a class="navbar-brand hoverme" href="#">Project</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item ">
+                    <NavLink class="nav-link" href="">Home</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="counter">About</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="weather">Vehicles</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="services">Register</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="admin">Admin</NavLink>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+*@
+
+<div class="top-row ps-3 navbar navbar-expand-lg navbar-light bg-transparent" style="border-bottom: 1px solid rgb(233, 233, 233);">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <p style="font-weight: bold; font-size: 2rem; color: #1743e3; font-family: 'Brush Script MT', cursive;">Nawab Motors</p>
+        </a>
+        <button class="navbar-toggler" type="button" @onclick="ToggleNavMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse @NavMenuCssClass" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item ">
+                </li>
+                <li class="nav-item ">
+                    <NavLink class="nav-link" href="" style="font-weight: bold; font-size: 1.5rem;">Home</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="about" style="font-weight: bold; font-size: 1.5rem;">About</NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="vehicles" style="font-weight: bold; font-size: 1.5rem;">Vehicles</NavLink>
+                </li>
+
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="admin" style="font-weight: bold; font-size: 1.5rem;">Admin</NavLink>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : "show";
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

@@ -1,0 +1,139 @@
+﻿/* Resetting default margins and paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    header h1 {
+        margin: 0;
+        font-size: 2.5em;
+    }
+
+/* Container */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* About section */
+.about-section {
+    background: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+    .about-section h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+        color: #007bff;
+    }
+
+    .about-section p {
+        font-size: 1.1em;
+        line-height: 1.8;
+        max-width: 800px;
+        margin: auto;
+    }
+
+/* Our goals section */
+.our-goals {
+    background-color: #007bff;
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+    .our-goals h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+
+.goals-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.goal-item {
+    flex: 1 1 300px;
+    margin: 20px;
+    background: #0062cc;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+    .goal-item h3 {
+        font-size: 1.5em;
+        margin-bottom: 15px;
+        color: #ffdd57;
+    }
+
+    .goal-item p,
+    .goal-item ul {
+        font-size: 1.1em;
+    }
+
+    .goal-item ul {
+        list-style: none;
+        padding: 0;
+    }
+
+        .goal-item ul li {
+            padding: 5px 0;
+        }
+
+.gallery {
+    padding: 50px 20px;
+    background: #fff;
+}
+
+    .gallery h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+        color: #007bff;
+    }
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.gallery-item {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+    .gallery-item img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+/* Footer section */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    margin-top: 30px;
+}

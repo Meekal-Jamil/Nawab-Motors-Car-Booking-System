@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Client\\Pages",
+    "\\Client\\Properties",
+    "\\Client\\Shared",
+    "\\Client\\wwwroot",
+    "\\Client\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\Client\\Pages\\Weather.razor",
+  "PreviewInSolutionExplorer": false
+}

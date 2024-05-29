@@ -1,0 +1,95 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = prroject.Client
+build_property.RootNamespace = prroject.Client
+build_property.ProjectDir = C:\Users\MANI\Desktop\prroject\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MANI\Desktop\prroject\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MANI/Desktop/prroject/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Admin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Bmw.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm13LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Dodge.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9kZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/G.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/H.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/M.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/T.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MANI/Desktop/prroject/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7nle774u3g
+
+[C:/Users/MANI/Desktop/prroject/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4h6o6vvimp

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\meekal\\NawabMotors\\prroject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|d:\\meekal\\nawabmotors\\prroject\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D28B8E-7DA6-43F3-9C50-CCA035DD25B2}|Shared\\prroject.Shared.csproj|D:\\meekal\\NawabMotors\\prroject\\shared\\models\\idataaccessprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D28B8E-7DA6-43F3-9C50-CCA035DD25B2}|Shared\\prroject.Shared.csproj|solutionrelative:shared\\models\\idataaccessprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\t.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\t.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\services.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\services.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\h.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\h.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\admin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\admin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|D:\\meekal\\NawabMotors\\prroject\\client\\pages\\bmw.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20B0C6D-6FC7-41C5-8E68-04E5ACA53FC9}|Client\\prroject.Client.csproj|solutionrelative:client\\pages\\bmw.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D28B8E-7DA6-43F3-9C50-CCA035DD25B2}|Shared\\prroject.Shared.csproj|D:\\meekal\\NawabMotors\\prroject\\shared\\models\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D28B8E-7DA6-43F3-9C50-CCA035DD25B2}|Shared\\prroject.Shared.csproj|solutionrelative:shared\\models\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62374B-0D45-4A5D-A561-7B124F7BEE88}|Server\\prroject.Server.csproj|D:\\meekal\\NawabMotors\\prroject\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62374B-0D45-4A5D-A561-7B124F7BEE88}|Server\\prroject.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Client\\_Imports.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\_Imports.razor",
+              "RelativeToolTip": "Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:09:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "T.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\T.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\T.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\T.razor",
+              "RelativeToolTip": "Client\\Pages\\T.razor",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:07:28.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Services.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Services.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Services.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Services.razor",
+              "RelativeToolTip": "Client\\Pages\\Services.razor",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAGcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:07:14.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "H.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\H.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\H.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\H.razor",
+              "RelativeToolTip": "Client\\Pages\\H.razor",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:06:24.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Weather.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Weather.razor",
+              "RelativeToolTip": "Client\\Pages\\Weather.razor",
+              "ViewState": "AQIAAHABAAAAAAAAAAAAALAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:04:59.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Home.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Home.razor",
+              "RelativeToolTip": "Client\\Pages\\Home.razor",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAACUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:04:29.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Client\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:00:41.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T20:57:19.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bmw.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Bmw.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Bmw.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Bmw.razor",
+              "RelativeToolTip": "Client\\Pages\\Bmw.razor",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAGgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T20:55:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "carrental.cs",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Shared\\Models\\carrental.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\carrental.cs",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Shared\\Models\\carrental.cs",
+              "RelativeToolTip": "Shared\\Models\\carrental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:26:27.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.razor",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Admin.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Admin.razor",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Client\\Pages\\Admin.razor",
+              "RelativeToolTip": "Client\\Pages\\Admin.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T20:19:20.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:18:43.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataAccessProvider.cs",
+              "DocumentMoniker": "D:\\meekal\\NawabMotors\\prroject\\Shared\\Models\\IDataAccessProvider.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\IDataAccessProvider.cs",
+              "ToolTip": "D:\\meekal\\NawabMotors\\prroject\\Shared\\Models\\IDataAccessProvider.cs",
+              "RelativeToolTip": "Shared\\Models\\IDataAccessProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:15:39.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
